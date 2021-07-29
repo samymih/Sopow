@@ -1,0 +1,5 @@
+- 👋 Coucou, c'est Sopow
+- 👀 Je voudrais bien tenter de créer un site web complet un jour mais j'ai la flemme
+- 🌱 Je code en Javascript principalement, et des fois en HTML CSS et PHP
+- 💞️ J'voudrais m'mettre au python mais j'ai la flemme
+- 📫 Discord : Sopow#2305
