@@ -1,2 +1,2 @@
-- Wallay billay, j'ai l'mort qu'ils soient pas venus à l'heure du four 🔫 
+![Sopow's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopow&show_icons=true&theme=radical)
 - https://www.sopow.fr 💙
