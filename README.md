@@ -1,7 +1,7 @@
 ## <div align="center">Hey 👋, It's Sopow</div>
 - 「💻 」I'm Fullstack web developer 
 - 「💼 」Can work in a company
-- 「🏗️ 」I'm making a social media
+- 「🏗️ 」Currently working on a special project
 - 「😄 」Help open source
 ## </br><div align="center">「🔧」Tools, Languages & Framework used</div>
 
