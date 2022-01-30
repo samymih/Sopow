@@ -25,5 +25,5 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
 ## </br><div align="center">「📊」Stats</div>
-![Sopow's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopow&show_icons=true&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopow&layout=compact&theme=radical)
+![Sopow's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopow&show_icons=true&theme=discord_old_blurple)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopow&layout=compact&theme=discord_old_blurple)
