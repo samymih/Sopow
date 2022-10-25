@@ -1,8 +1,6 @@
 ## <div align="center">Hey 👋, It's Sopow</div>
-- 「💻 」I'm Fullstack web developer 
-- 「💼 」Can work in a company
-- 「🏗️ 」Currently working on a special project
-- 「😄 」Help open source
+- 「💻 」I'm a student who love to code
+- 「😄 」Help open source and also a web developer
 ## </br><div align="center">「🔧」Tools, Languages & Framework used</div>
 
 ![Apple](https://camo.githubusercontent.com/685cf68a824b91e854d943d304d09e73c11a759add33ce2cf2c7beeba1e3c8bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170706c652d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4170706c65266c6f676f436f6c6f723d7768697465)
