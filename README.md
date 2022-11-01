@@ -1,27 +1,23 @@
-## <div align="center">Hey 👋, It's Sopow</div>
-- 「💻 」I'm a student who love to code
-- 「😄 」Help open source and also a web developer
-## </br><div align="center">「🔧」Tools, Languages & Framework used</div>
+<h1 align="center">Sopow</h1>
 
-![Apple](https://camo.githubusercontent.com/685cf68a824b91e854d943d304d09e73c11a759add33ce2cf2c7beeba1e3c8bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4170706c652d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4170706c65266c6f676f436f6c6f723d7768697465)
-![MacOS](https://camo.githubusercontent.com/e00426722c8521fdaa1e2e64b9a2f20098da1291bb4a62d668d10b315a23cc60/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6d61634f532d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6d61634f53266c6f676f436f6c6f723d7768697465)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Visual studio code](https://camo.githubusercontent.com/1b9c3034aa078ebfac8da21d4a43ab67da92ad801a08c4b9b04cfecfb54df2d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d56697375616c2d53747564696f2d436f6465266c6f676f436f6c6f723d7768697465)
-![Intellij-idea](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Mongo DB](https://camo.githubusercontent.com/ce143f7fd76dab35e8da20477c48cae4eeb7a59896b41e54c1c9882df1e1a9d0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6f6e676f4442266c6f676f436f6c6f723d7768697465)
-![Github](https://camo.githubusercontent.com/ab157f6775de79be0a1001ed37be1ec4ec4529a9de146f306700d725aea9bce5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d7768697465)
-![Electron](https://camo.githubusercontent.com/f69b2ef1733d40e21237d240fabcafacf6e25c6436c39db79667ba90685f2a9c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f456c656374726f6e2d3437383438462e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d456c656374726f6e266c6f676f436f6c6f723d7768697465)
-![Express](https://camo.githubusercontent.com/cbc758d6b60487e6c7ce7f34941fb4b4700251c2610af03f796c70d57f2547d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d45787072657373266c6f676f436f6c6f723d7768697465)
-![Node.js](https://camo.githubusercontent.com/b37d957fad59c6603fe2d92ad99e098a1c6626f8a361ed2241834a9a6e630f14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652d646f742d6a73266c6f676f436f6c6f723d7768697465)
-![Javascript](https://camo.githubusercontent.com/a2042e7183b80291f7a9b360ee5b0390cc7bb4ee163e0304d43659a5000ecba0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4a617661536372697074266c6f676f436f6c6f723d626c61636b)
-![Typescript](https://camo.githubusercontent.com/f52f5a7e8d4ae7493db2127b25f55711d6353f65c7ed585024c80ee9febfa8d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d54797065536372697074266c6f676f436f6c6f723d7768697465)
-![HTML](https://camo.githubusercontent.com/ce98a71a9faff159f0f00537dd08693cea68ca1d891f91c7e9021b8191d02fae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d7768697465)
-![CSS](https://camo.githubusercontent.com/dad0bd470ccac1d7413044b05b886be1e106386624008bd31a6c950f7d608460/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d43535333266c6f676f436f6c6f723d7768697465)
-![Ruby](https://camo.githubusercontent.com/d67dbfbba52a53512b6be3cef672ce9126364ba93f9aaa5ff715ab28fde24120/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f527562792d4343333432442e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d52756279266c6f676f436f6c6f723d7768697465)
-![Pug](https://camo.githubusercontent.com/70592350d811705cd080402135d387c15681ea05f9cc32b28d29515eaff0ce5a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5075672d4138363435342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d507567266c6f676f436f6c6f723d7768697465)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+<p align="center">
+ <a href="https://discord.com/users/853394858895343636" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://www.github.com/sopow" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+ <a href="https://www.twitter.com/gsopow" target"blank_"><img src="https://img.shields.io/badge/Twitter-191717.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue"></a>
 
-## </br><div align="center">「📊」Stats</div>
-![Sopow's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopow&show_icons=true&theme=discord_old_blurple)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sopow&layout=compact&theme=discord_old_blurple)
+<p align="center">
+  <a href="https://discord.com/users/853394858895343636">
+    <img src="https://discord.c99.nl/widget/theme-4/853394858895343636.png" alt="bug creator"/>
+     </a>
+</p>
+
+<p align="center">
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=sopow&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&include_all_commits=true&enable_animations=true" />
+    </td>
+        <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sopow&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true&enable_animations=true" />
+    </td>
+  </tr>
+</p>
